@@ -60,7 +60,7 @@ python gui_script.py --gui
 To use the CLI script:
 
 ```bash
-shell_don.py <command> <substitution_key> [--preview] [--custom-decoding <command>]
+shell_don <command> <substitution_key> [--preview] [--custom-decoding <command>]
 ```
 
 ### Arguments:
@@ -83,7 +83,7 @@ Click "Generate" to see the encoded formats and decoding payloads.
 ### Encode a command with the CLI:
 
 ```bash
-shell_don.py "ls -la" 3 --preview
+shell_don "ls -la" 3 --preview
 ```
 
 
