@@ -44,7 +44,7 @@ git clone https://github.com/DeadmanXXXII/Shell_Don.git
 
 ### Usage
 
-There are two ways to use this with a GUI which has nmore features ot the CLI for quick on the go access:
+There are two ways to use this with a GUI which has more features in the CLI for quick on the go access:
 
 ### GUI Script
 
